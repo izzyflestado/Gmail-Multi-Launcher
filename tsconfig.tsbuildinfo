@@ -1,0 +1,1 @@
+{"root":["./src/background/background.ts","./src/popup/app.tsx","./src/popup/main.tsx","./src/popup/components/accountrow.tsx","./src/popup/components/avatar.tsx","./src/shared/launcher.ts","./src/shared/storage.ts","./src/shared/types.ts","./manifest.config.ts","./vite.config.ts"],"version":"5.9.3"}
