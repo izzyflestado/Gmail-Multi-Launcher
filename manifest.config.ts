@@ -9,7 +9,6 @@ export default defineManifest({
     'Automatically opens Gmail in separate tabs for your saved Google account indices whenever you visit Gmail.',
   icons: {
     16: 'public/icons/icon16.png',
-    48: 'public/icons/icon48.png',
     128: 'public/icons/icon128.png',
   },
   action: {
@@ -17,7 +16,6 @@ export default defineManifest({
     default_title: 'Gmail Multi-Launcher',
     default_icon: {
       16: 'public/icons/icon16.png',
-      48: 'public/icons/icon48.png',
       128: 'public/icons/icon128.png',
     },
   },
