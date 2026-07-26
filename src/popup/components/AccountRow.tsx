@@ -34,7 +34,7 @@ export function AccountRow({ account, onToggle, onChange, onRemove, onOpenNow }:
           className="account-row__email-input"
           type="text"
           value={account.email}
-          placeholder="you@example.com (for your reference only)"
+          placeholder="you@example.com"
           onChange={(e) => onChange(account.id, { email: e.target.value })}
         />
       </div>
